@@ -7,3 +7,4 @@ and then
     python3 encrypt.py  
 This should open a encryption menu.  
 If something went wrong during installation install on linux python-tk
+Hope it works!
