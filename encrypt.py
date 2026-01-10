@@ -1,7 +1,7 @@
 """
 File Encryptor/Decryptor Application
 
-This module provides a GUI application for encrypting and decrypting files
+This module provides a GUI application for encrypting and decrypting file/s
 using AES encryption with PBKDF2 key derivation.
 """
 
